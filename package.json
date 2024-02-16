@@ -1,0 +1,20 @@
+{
+  "name": "shopclothes",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas de la web app tienda de ropas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QA",
+    "testing",
+    "automation",
+    "cypress"
+  ],
+  "author": "Victor Moya",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.4"
+  }
+}
